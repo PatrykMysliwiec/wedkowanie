@@ -27,7 +27,7 @@
         </ol>
     </section>
     <aside>
-        <img src="./ryba1.jpg" alt="Sum">
+        <img src="./ryba1.jpg" alt="Sum"><br>
         <a href="./05312507197/kwerendy.txt">Pobierz kwerendy</a>
     </aside>
     <main>
