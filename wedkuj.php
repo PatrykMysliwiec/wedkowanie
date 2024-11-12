@@ -50,7 +50,7 @@
         </table>
     </main>
     <footer>
-        <p>Stronę wykonał: 05312507197</p>
+        <p>Stronę wykonał: Patryk Myśliwiec</p>
     </footer>
 </body>
 
